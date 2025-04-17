@@ -1,5 +1,5 @@
 local Games = {
-  [94707992700496] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Memes Tower Defense
+  [94707992700496] = "https://raw.githubusercontent.com/Vayron2456/Memes-Tower-Defense/refs/heads/main/Memes%20Tower%20Defense.lua", -- Memes Tower Defense
 }
 
 return Games
